@@ -1,0 +1,22 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracolhd.png" group-title="Colombia",Caracol HD
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWriLGYo5rnp071t30Xr8SH
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/rcn.png" group-title="Colombia",RCN
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVQWDZaUDrhU01wNFTu6hXR
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Colombia",WinSport+ full
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmizdPPUDZ0VTKP7c851wXuC
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/uno.png" group-title="Colombia",Canal 1
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVpJmDvzcgnQgjbloI73o3p
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/red+.png" group-title="Colombia",RED + NOTICIAS
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-552FjBZW47Km7dJG4r0hje
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/Warner.png" group-title="Colombia",WARNER
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7aXbuwcKqil9Osbcw__ZZYK
