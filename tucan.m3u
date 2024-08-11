@@ -1,20 +1,27 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="Caracol" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Canal Tucan
 https://hosting.profekadi.com/estudiante/kadi/tucan.mp4
-
-
-
-
-
 #EXTINF:-1 tvg-id="Caracol" tvg-logo="https://profekadi.github.io/iptv/logos/caracol.png" group-title="Nacionales",Canal Caracol Tv
 https://co-e6-p-e-cl1.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_2500.m3u8?aid=574462d1cab0f4d50866f001&uid=kEzsBesPW1Ha57Zvga22MovyW6SfDayH&sid=8QL5MFBvuLKwFp03f3qNLC9vyXSNYGge&pid=QdlJ26qg2rwTn0G2SRjYHvyRhQveCsEA&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=co-e6-p-e-cl1.cdn.mdstrm.com&ote=1723429230564&ot=lX0IAwqQeMW89bMZrlI0qQ&proto=https&pz=us
 
-#EXTINF:-1 tvg-id="Caracol" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win.png" group-title="Nacionales",Win Sports
+#EXTINF:-1 tvg-id="Caracol" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Nacionales",Win Sports+
 http://186.148.163.18:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Nacionales",Win Sports +
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Nacionales",Win Sports 
 http://179.1.132.203:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Nacionales",Win Sports +
 http://181.78.6.106:45000/play/a014
+
+#EXTINF:-1 tvg-id="Caracol" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telecaribe.png" group-title="Nacionales",TELECARIBE
+http://181.78.6.106:45000/play/a030
+#EXTINF:-1 tvg-id="Caracol" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telecafe.png" group-title="Nacionales",TELECAFE
+http://181.78.6.106:45000/play/a031
+
+#EXTINF:-1 tvg-id="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="Nacionales",Espn5
+http://181.78.6.106:45000/play/a028
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/telemundo.png" group-title="Nacionales",Telemundo Internacional
+http://181.78.6.106:45000/play/a020
+
 
 
 
